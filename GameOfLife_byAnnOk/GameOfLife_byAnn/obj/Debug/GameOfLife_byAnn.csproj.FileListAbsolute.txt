@@ -1,0 +1,30 @@
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.exe.config
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csprojAssemblyReference.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\MainWindow.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\App.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn_MarkupCompile.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn_MarkupCompile.lref
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\MainWindow.baml
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.g.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.Properties.Resources.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csproj.GenerateResource.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csproj.CoreCompileInputs.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.exe.config
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\bin\Debug\GameOfLife_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csprojAssemblyReference.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\MainWindow.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\App.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn_MarkupCompile.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn_MarkupCompile.lref
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\MainWindow.baml
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.g.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.Properties.Resources.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csproj.GenerateResource.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.csproj.CoreCompileInputs.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\GameOfLife_byAnn — kopia\GameOfLife_byAnn\obj\Debug\GameOfLife_byAnn.pdb
