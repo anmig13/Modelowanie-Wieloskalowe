@@ -1,0 +1,30 @@
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.exe.config
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csprojAssemblyReference.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\MainWindow.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\App.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn_MarkupCompile.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn_MarkupCompile.lref
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\MainWindow.baml
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.g.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.Properties.Resources.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csproj.GenerateResource.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csproj.CoreCompileInputs.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\RDX_byAnnOk — kopia\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.exe.config
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\bin\Release\GrainGrowth_byAnn.pdb
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csprojAssemblyReference.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\MainWindow.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\App.g.cs
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn_MarkupCompile.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn_MarkupCompile.lref
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\MainWindow.baml
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.g.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.Properties.Resources.resources
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csproj.GenerateResource.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.csproj.CoreCompileInputs.cache
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.exe
+D:\Anka\studia\Informatyka\semestr VI\Modeowanie wieloskalowe\DynamicRecrystalization_byAnnOk\GrainGrowth_byAnn\obj\Release\GrainGrowth_byAnn.pdb
